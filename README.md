@@ -1,6 +1,6 @@
 # 🩺 GlucoBot: Diabetes Prediction using Machine Learning
 
-![App Screenshot](images/Webapp1.jpg)
+![App Screenshot](images/Webapp1.jpeg)
 
 ---
 
