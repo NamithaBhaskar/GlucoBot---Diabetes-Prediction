@@ -122,5 +122,6 @@ cd GlucoBot-Diabetes-Prediction
 git clone https://github.com/YourUsername/GlucoBot-Diabetes-Prediction.git
 cd GlucoBot-Diabetes-Prediction
 
+---
 
-### © 2025 Namitha Bhaskar. All rights reserved.
+© 2025 Namitha Bhaskar. All rights reserved.
