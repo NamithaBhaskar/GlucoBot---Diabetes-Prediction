@@ -117,4 +117,6 @@ A fully interactive **Streamlit web application** enables users to input medical
 git clone https://github.com/YourUsername/GlucoBot-Diabetes-Prediction.git
 cd GlucoBot-Diabetes-Prediction
 
+---
+
 © 2025 Namitha Bhaskar. All rights reserved.
