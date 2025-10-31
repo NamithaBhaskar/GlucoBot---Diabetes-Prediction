@@ -1,7 +1,6 @@
 # 🩺 GlucoBot: Diabetes Prediction using Machine Learning
 
-![App Screenshot](images/app_screenshot.png)
-> *(Replace `images/app_screenshot.png` with your actual image path or hosted image link)*
+![App Screenshot](images/Webapp1.jpg)
 
 ---
 
@@ -92,9 +91,6 @@ A fully interactive **Streamlit web application** enables users to input medical
 - Interactive SHAP visualizations for model interpretability  
 - User-friendly interface built in **Streamlit**
 
-![GlucoBot Interface](images/glucobot_interface.png)
-> *(Replace with your actual app screenshot path)*
-
 ---
 
 ## 🧰 Tech Stack
@@ -119,4 +115,12 @@ cd GlucoBot-Diabetes-Prediction
 
 ---
 
-© 2025 Namitha Bhaskar. All rights reserved.
+## 🚀 How to Run
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/YourUsername/GlucoBot-Diabetes-Prediction.git
+cd GlucoBot-Diabetes-Prediction
+
+
+### © 2025 Namitha Bhaskar. All rights reserved.
