@@ -115,14 +115,4 @@ cd GlucoBot-Diabetes-Prediction
 
 ---
 
-## 🚀 How to Run
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YourUsername/GlucoBot-Diabetes-Prediction.git
-cd GlucoBot-Diabetes-Prediction
-```
-
----
-
 © 2025 Namitha Bhaskar. All rights reserved.
