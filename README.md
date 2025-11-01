@@ -24,11 +24,11 @@ A fully interactive **Streamlit web application** enables users to input medical
 ## 📊 Dataset
 
 - **Source**: UCI Machine Learning Repository – Diabetes Dataset  
-- **Records**: ~70,000 medical instances  
-- **Attributes**: 14 features including age, BMI, glucose level, blood pressure, and insulin  
+- **Records**: ~230,000 lifestyle and medical instances  
+- **Attributes**: 21 features including age, BMI, Cholestrol, Blood Pressure  
 - **Type**: Multivariate, Numerical + Categorical  
 
-*(You can add the dataset link here: [UCI Diabetes Dataset](https://archive.ics.uci.edu/ml/index.php))*  
+*(You can add the dataset link here: [UCI Diabetes Dataset](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators))*  
 
 ---
 
@@ -115,4 +115,4 @@ cd GlucoBot-Diabetes-Prediction
 ```
 ---
 
-<p align="center"><small><em>© 2025 Namitha Bhaskar. All rights reserved.</em></small></p>
+<h4>© 2025 Namitha Bhaskar. All rights reserved.</h4>
