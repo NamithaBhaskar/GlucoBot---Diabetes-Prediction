@@ -121,6 +121,7 @@ cd GlucoBot-Diabetes-Prediction
 ```bash
 git clone https://github.com/YourUsername/GlucoBot-Diabetes-Prediction.git
 cd GlucoBot-Diabetes-Prediction
+```
 
 ---
 
